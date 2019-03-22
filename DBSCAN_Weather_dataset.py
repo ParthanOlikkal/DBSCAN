@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 #Load dataset
-url = 'https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/weather-stations20140101-20141231.csv'
+url = 'https://raw.githubusercontent.com/ParthanOlikkal/DBSCAN/master/weather-stations20140101-20141231.csv'
 pdf = pd.read_csv(url)
 pdf.head()
 
