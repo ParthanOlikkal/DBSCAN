@@ -4,11 +4,21 @@ Dataset - Cluster the location of weather stations in Canada. Using DBSCAN clust
 
 
  Environment Canada Monthly Values for July - 2015
+ 
+ 
 
 Name in the table 	        Meaning
+
+
 Stn_Name 	                  Station Name
+
+
 Lat 	                      Latitude (North+, degrees)
+
+
 Long                      	Longitude (West - , degrees)
+
+
 Prov 	                      Province
 Tm 	                        Mean Temperature (°C)
 DwTm 	                      Days without Valid Mean Temperature
